@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+  background-image: url(https://wallpapershome.com/images/pages/pic_h/16032.jpg);
+
+}
+* {
+  box-sizing: border-box;
+}
+
+main{
+  background: rgba(255,255,255, 0.9);
+  margin: 1rem;
+  padding: 2rem;
+  overflow-y:auto;
+   overflow-x:auto;
+
+}
+
+h2{
+  padding: 1rem;
+}
+.search{
+    width: 20rem;
+    margin:2rem auto;
+    padding: 1rem;
+}
+
+.input {
+   background: rgba(255,255,255, 0);
+  font-size: 1rem;
+
+  border:rgba(255,255,255,0);
+ 
+}
+
+.tables {
+  border-collapse: collapse;
+  margin: 0rem 1rem;
+  border: 0.1rem solid #ddd;
+  font-size: 1rem;
+}
+
+.tables th, .tables td {
+  text-align: left;
+  padding: 0.5rem;
+  border: 0.1rem solid #ddd;
+}
+
+.tables tr {
+  border: 0.1rem solid #ddd;
+}
+
+.tables tr.header, .tables tr:hover {
+  background-color: #f1f1f1;
+}
