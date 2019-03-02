@@ -6,7 +6,7 @@
           "results": [
               {
                   "name": "Alderaan", 
-                  "rotation_period": "a24", 
+                  "rotation_period": "24", 
                   "orbital_period": "364", 
                   "diameter": "12500", 
                   "climate": "temperate", 
